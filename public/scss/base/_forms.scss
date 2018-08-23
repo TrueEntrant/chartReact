@@ -1,0 +1,153 @@
+form,
+fieldset {
+	margin: 0;
+	padding: 0;
+	border-style: none;
+}
+
+input[type='text'],
+input[type='tel'],
+input[type='email'],
+input[type='search'],
+input[type='password'],
+input[type='url'],
+input[type='date'],
+textarea {
+	-webkit-appearance: none;
+	-webkit-border-radius: 0;
+	box-sizing: border-box;
+
+	height: 40px;
+	line-height: 40px;
+	border-radius: 4px;
+	border: 1px solid #EBECEF;
+	background-color: #fff;
+	color: #2B3039;
+	font-size: 14px;
+	transition: all .3s ease;
+
+	&:focus {
+		outline: none;
+		box-shadow: 0 0 5px rgba(#dbdbdb, 1);
+		border: 1px solid rgba(#dbdbdb, 1);
+	}
+}
+
+input[type='text'],
+input[type='tel'],
+input[type='email'],
+input[type='search'],
+input[type='password'],
+input[type='url'],
+input[type='date'] {
+
+	@include placeholder {
+		color: #969AA3;
+		opacity: .5;
+	}
+}
+
+select {
+	-webkit-border-radius: 0;
+	-moz-appearance: none;
+	-webkit-appearance:none;
+	font-size: 18px;
+	color: #2B3039;
+
+	&:focus {
+		outline: none;
+	}
+}
+
+select::-ms-expand {
+	display: none;
+}
+
+textarea {
+	resize: vertical;
+	vertical-align: top;
+	font-size: 16px;
+	line-height: 1.4;
+
+	@include placeholder {
+		color: #91949D;
+	}
+}
+
+button,
+input[type='button'],
+input[type='reset'],
+input[type='file'],
+input[type='submit'] {
+	-webkit-appearance: none;
+	-webkit-border-radius: 0;
+	cursor: pointer;
+
+	&:focus {
+		outline: none;
+	}
+}
+
+
+
+
+
+[type="checkbox"]:not(:checked),
+[type="checkbox"]:checked {
+	position: absolute;
+	left: -9999px;
+}
+[type="checkbox"]:not(:checked) + label,
+[type="checkbox"]:checked + label {
+	position: relative;
+	padding-left: 28px;
+	cursor: pointer;
+	display: block;
+}
+
+[type="checkbox"]:not(:checked) + label:before,
+[type="checkbox"]:checked + label:before {
+	content: '';
+	position: absolute;
+	left: 0;
+	top: -1px;
+	width: 18px; 
+	height: 18px;
+	border: 1px solid #DDDEE1;
+	background: #fff;
+	border-radius: 3px;
+}
+
+[type="checkbox"]:not(:checked) + label:after,
+[type="checkbox"]:checked + label:after {
+	content: '';
+	background: #FF5656 url(../images/icon-done.svg) no-repeat 50%;
+	background-size: 70%;
+	width: 18px;
+	height: 18px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	transition: all .2s;
+	border-radius: 3px;
+}
+
+[type="checkbox"]:checked + label:before {
+	border: none;
+}
+
+
+[type="checkbox"]:not(:checked) + label:after {
+	opacity: 0;
+	transform: scale(0);
+}
+[type="checkbox"]:checked + label:after {
+	opacity: 1;
+	transform: scale(1);
+}
+
+
+
+
+
+

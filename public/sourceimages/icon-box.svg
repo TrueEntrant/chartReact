@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="126px" height="62px" viewBox="0 0 126 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-box</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M67.4651163,32.2325581 L123,32.2325581 C124.656854,32.2325581 126,33.5757039 126,35.2325581 L126,58.5348837 C126,60.191738 124.656854,61.5348837 123,61.5348837 L67.4651163,61.5348837 C65.808262,61.5348837 64.4651163,60.191738 64.4651163,58.5348837 L64.4651163,35.2325581 C64.4651163,33.5757039 65.808262,32.2325581 67.4651163,32.2325581 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="61.5348837" height="29.3023256" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Statistics" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-1067.000000, -1326.000000)" stroke="#CED1D8">
+            <g id="change" transform="translate(850.000000, 1202.000000)">
+                <g id="icon-box" transform="translate(217.000000, 124.000000)">
+                    <rect id="Rectangle-7" stroke-width="2" x="1" y="33.2325581" width="27.3023256" height="27.3023256" rx="3"></rect>
+                    <rect id="Rectangle-7" stroke-width="2" x="1" y="1" width="91.7674419" height="27.3023256" rx="3"></rect>
+                    <rect id="Rectangle-7" stroke-width="2" x="33.2325581" y="33.2325581" width="27.3023256" height="27.3023256" rx="3"></rect>
+                    <rect id="Rectangle-7" stroke-width="2" x="97.6976744" y="1" width="27.3023256" height="27.3023256" rx="3"></rect>
+                    <use id="Rectangle-7" mask="url(#mask-2)" stroke-width="4" stroke-dasharray="3,3,3" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

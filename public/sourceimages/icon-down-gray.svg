@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Statistics" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-403.000000, -33.000000)" fill="#93969D">
+            <g id="top-bar" transform="translate(278.000000, 24.000000)">
+                <g id="date-selection" transform="translate(19.000000, 0.000000)">
+                    <path d="M109.51559,12.8571429 L115.801304,12.8571429 L115.801304,14.4285714 L109.51559,14.4285714 L107.944161,14.4285714 L107.944161,6.57142857 L109.51559,6.57142857 L109.51559,12.8571429 Z" id="Combined-Shape" transform="translate(111.872732, 10.500000) rotate(-45.000000) translate(-111.872732, -10.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

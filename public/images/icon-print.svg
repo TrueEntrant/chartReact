@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="20px" viewBox="0 0 22 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-print</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Statistics" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-1309.000000, -24.000000)">
+            <g id="top-bar" transform="translate(278.000000, 24.000000)">
+                <g id="icon-print" transform="translate(1031.000000, 0.000000)">
+                    <rect id="Rectangle-3" fill="#93969D" fill-rule="evenodd" x="4" y="7" width="2" height="2"></rect>
+                    <path d="M5.75,5.25 L16.25,5.25 L16.25,2 C16.25,1.30964406 15.6903559,0.75 15,0.75 L7,0.75 C6.30964406,0.75 5.75,1.30964406 5.75,2 L5.75,5.25 Z" id="Rectangle-2" stroke="#93969D" stroke-width="1.5"></path>
+                    <rect id="Rectangle" stroke="#93969D" stroke-width="2" x="1" y="5" width="20" height="9" rx="2"></rect>
+                    <path d="M5.75,19.25 L16.25,19.25 L16.25,13 C16.25,12.3096441 15.6903559,11.75 15,11.75 L7,11.75 C6.30964406,11.75 5.75,12.3096441 5.75,13 L5.75,19.25 Z" id="Rectangle-2" stroke="#93969D" stroke-width="1.5" fill="#FFFFFF" fill-rule="evenodd" transform="translate(11.000000, 15.500000) rotate(-180.000000) translate(-11.000000, -15.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
